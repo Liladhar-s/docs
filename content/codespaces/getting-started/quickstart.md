@@ -6,7 +6,7 @@ product: '{% data reusables.gated-features.codespaces %}'
 versions:
   fpt: '*'
   ghec: '*'
-type: quick_start
+type: quick_starts
 topics:
   - Codespaces
 redirect_from:
